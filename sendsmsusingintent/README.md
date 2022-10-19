@@ -116,11 +116,10 @@ public class MainActivity extends AppCompatActivity {
    ```
   
 ## OUTPUT:
-```
+
 ![WhatsApp Image 2022-10-19 at 08 49 01](https://user-images.githubusercontent.com/94810884/196590262-c27958be-b244-493e-b8b1-5942fde25d33.jpeg)
 ![WhatsApp Image 2022-10-19 at 08 47 41](https://user-images.githubusercontent.com/94810884/196590296-d3d354fc-4b70-40fd-a497-55dccdd48986.jpeg)
 ![WhatsApp Image 2022-10-19 at 08 48 17](https://user-images.githubusercontent.com/94810884/196590318-357ff53c-4af7-4921-b96a-730d7a2692df.jpeg)
-```
 
 
 
