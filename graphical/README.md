@@ -36,7 +36,7 @@ Registeration Number :212221230027
 ```
 ### MainActivity.java:
 ```
-package com.adithya.animation;
+package com.gautham.animation;
 
 import androidx.appcompat.app.AppCompatActivity;
 
